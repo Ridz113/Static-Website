@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+article {
+    margin: 20px;
+}
