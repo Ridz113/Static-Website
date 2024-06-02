@@ -4,13 +4,11 @@ body {
 
 }
 
-header {
+head {
     background-color: #d61b1b;
     padding: 10px;
     text-align: center;
 }
 
-article {
-    margin: 20px;
-}
+
 
